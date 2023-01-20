@@ -1,0 +1,12 @@
+header, nav, footer, article, section{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+section{
+background-color: rgb(52, 110, 112);
+}
