@@ -18,16 +18,38 @@
     clear: both;
 }*/
 
-#red-box {
+/*#red-box {
     background-color: red;
+    border: 5px solid black;
 }
 #green-box {
     background-color: green;
+    border-radius: 25px;
 }
 #blue-box {
     background-color: blue;
+    border-radius: 50%;
 }
 .square{
     width: 100px;
     height: 100px;
+    margin: 25px;
+}*/
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-family: 'Oswald';
+}
+.bold{
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+    font-size: larger;
 }
