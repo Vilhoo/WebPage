@@ -1,0 +1,33 @@
+/*#green-area{
+    color: yellow;
+    background-color: rgb(34, 84, 38);
+    width: 300px;
+    float: left;
+}
+#red-area{
+    background-color: red;
+    width: 150px;
+    float: left;
+    /*margin: 50px; lisää kaikille sivuille*/
+    /*margin-right: 50px;
+    margin: 25px 50px 50px 75px;
+    padding: 25px;
+    border: 5px black solid;
+}
+.clear-float{
+    clear: both;
+}*/
+
+#red-box {
+    background-color: red;
+}
+#green-box {
+    background-color: green;
+}
+#blue-box {
+    background-color: blue;
+}
+.square{
+    width: 100px;
+    height: 100px;
+}
